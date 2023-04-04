@@ -19,7 +19,7 @@ def p_(bas,ini,f2,css_bas):
 	add=['<p>\n','Sample Text Starts here............','</p>\n']
 	insert(bas,add,ini)
 	ini='</p>\n'
-	fileWriter('.p\n',f2,css_bas)
+	fileWriter('p\n',f2,css_bas)
 def img_(bas,ini,f2,css_bas):
 	# src=input("ENTER THE IMAGE'S FILENAME : ")
 	# height=int(input("ENTER THE HEIGHT OF THE IMAGE : "))
@@ -28,7 +28,7 @@ def img_(bas,ini,f2,css_bas):
 	add=["<img src=xyz.jpg,height=123,width=123,alt='SAMPLE GOES HERE.....'>\n"]
 	insert(bas,add,ini)
 	ini=add[0]
-	fileWriter('.img\n',f2,css_bas)
+	fileWriter('img\n',f2,css_bas)
 def hx_(bas,ini,f2,css_bas):
 	# x=input("ENTER THE HEADING TAG FROM 1-6 : ")
 
@@ -36,34 +36,34 @@ def hx_(bas,ini,f2,css_bas):
 	insert(bas,add,ini)
 	ini='</h1>\n'
 
-	fileWriter('.h1\n',f2,css_bas)
+	fileWriter('h1\n',f2,css_bas)
 def sup_(bas,ini,sup,f2,css_bas):
 	if(sup=='<sub>'):
 		add=['<sub>\n','Sample Text Starts here............\n','</sub>\n']
 		insert(bas,add,ini)
 		ini='</sub>\n'
-		fileWriter('.sub\n',f2,css_bas)
+		fileWriter('sub\n',f2,css_bas)
 	elif(sup=='<sup>'):
 		add=['<sup>\n','Sample Text Starts here............\n','</sup>\n']
 		insert(bas,add,ini)
 		ini='</sup>\n'
-		fileWriter('.sup\n',f2,css_bas)
+		fileWriter('sup\n',f2,css_bas)
 			
 
 def ol_(bas,ini,f2,css_bas):
 	add=['<ol type=' '>\n','</ol>\n']
 	insert(bas,add,ini)
 	ini='<ol type=' '>\n'
-	fileWriter('.ol\n',f2,css_bas)
+	fileWriter('ol\n',f2,css_bas)
 def li_(bas,ini,f2,css_bas):
 	add=['<li>\n',lorem,'\n','</li>\n']
 	insert(bas,add,ini)
-	fileWriter('.li\n',f2,css_bas)																							
+	fileWriter('li\n',f2,css_bas)																							
 def ul_(bas,ini,f2,css_bas):
 	add=['<ul style=' '>\n','</ul>\n']
 	insert(bas,add,ini)
 	ini='<ul style=' '>\n'
-	fileWriter('.ul\n',f2,css_bas)
+	fileWriter('ul\n',f2,css_bas)
 def main():
 	try:
 		file_html=input("[*] ENTER THE FILENAME FOR THE HTML TEMPLATE : ")
