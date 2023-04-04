@@ -1,5 +1,5 @@
-<!-- ![Logo](Images/pic.jpg) -->
-<kbd>![Image](Images/pic.JPG)</kbd>
+<!-- ![Logo](Images/pic.PNG) -->
+<kbd>![Image](Images/pic.PNG)</kbd>
 
 
 
@@ -13,14 +13,14 @@ THIS IS A PYTHON CODE WHICH IS DESIGNED TO PROVIDE A HTML_CSS TEMPLATE, AS PER U
 
 ## Examples
 
-- 1st Step : <!-- ![Logo](Images/1st.jpg) -->
+- 1st Step : <!-- ![Logo](Images/1st.PNG) -->
             <kbd>![Image](Images/1st.JPG)</kbd>
             
-- Output HTML FILE : <!-- ![Logo](Images/html.jpg) -->
-            <kbd>![Image](Images/html.JPG)</kbd>
+- Output HTML FILE : <!-- ![Logo](Images/html.PNG) -->
+            <kbd>![Image](Images/html.PNG)</kbd>
 
-- Output CSS FILE: <!-- ![Logo](Images/css.jpg) -->
-            <kbd>![Image](Images/css.JPG)</kbd>
+- Output CSS FILE: <!-- ![Logo](Images/css.PNG) -->
+            <kbd>![Image](Images/css.PNG)</kbd>
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
