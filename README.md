@@ -21,6 +21,10 @@ THIS IS A PYTHON CODE WHICH IS DESIGNED TO PROVIDE A HTML_CSS TEMPLATE, AS PER U
 
 - Output CSS FILE: <!-- ![Logo](Images/css.PNG) -->
             <kbd>![Image](Images/css.PNG)</kbd>
+            
+            **NOTE : JAVASCRIPT FILE WILL REMAIN BLANK , HTML AND CSS FILE WILL BE IN THE SAME LOCATION WHERE THE *main.py* FILE IS RUNNING.**
+ 
+ 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
