@@ -14,7 +14,7 @@ THIS IS A PYTHON CODE WHICH IS DESIGNED TO PROVIDE A HTML_CSS TEMPLATE, AS PER U
 ## Examples
 
 - 1st Step : <!-- ![Logo](Images/1st.PNG) -->
-            <kbd>![Image](Images/1st.JPG)</kbd>
+            <kbd>![Image](Images/1st.PNG)</kbd>
             
 - Output HTML FILE : <!-- ![Logo](Images/html.PNG) -->
             <kbd>![Image](Images/html.PNG)</kbd>
