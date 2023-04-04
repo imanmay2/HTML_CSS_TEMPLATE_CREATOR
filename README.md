@@ -11,7 +11,7 @@ THIS IS A PYTHON CODE WHICH IS DESIGNED TO PROVIDE A HTML_CSS TEMPLATE, AS PER U
 
 - Open any editor like  VISUAL STUDIO CODE, run the above python code.
 
-## Examples
+## Example
 
 - 1st Step : <!-- ![Logo](Images/1st.PNG) -->
             <kbd>![Image](Images/1st.PNG)</kbd>
@@ -21,8 +21,19 @@ THIS IS A PYTHON CODE WHICH IS DESIGNED TO PROVIDE A HTML_CSS TEMPLATE, AS PER U
 
 - Output CSS FILE: <!-- ![Logo](Images/css.PNG) -->
             <kbd>![Image](Images/css.PNG)</kbd>
-            
-            **NOTE : JAVASCRIPT FILE WILL REMAIN BLANK , HTML AND CSS FILE WILL BE IN THE SAME LOCATION WHERE THE *main.py* FILE IS RUNNING.**
+           
+**NOTE : JAVASCRIPT FILE WILL REMAIN BLANK , HTML AND CSS FILE WILL BE IN THE SAME LOCATION WHERE THE *main.py* FILE IS RUNNING.**
+ 
+ 
+## Used By
+
+This project is used by the following companies:
+- [Ahens | An Initiative to Initial](www.ahens.rf.gd)
+
+
+## FUTURE SCOPE :
+ - I) ADDING THE JAVASCRIPT TEMPLATE.
+ - II) MANY FEATURED TAGS ARE YET TO BE ADDED IN HTML AND CSS FILES.
  
  
 ## License
@@ -35,12 +46,16 @@ THIS IS A PYTHON CODE WHICH IS DESIGNED TO PROVIDE A HTML_CSS TEMPLATE, AS PER U
 - [@Manmay Chakraborty](https://www.github.com/manmay2)
 
 
-## 🚀 About Me
-Hi, I am Manmay Chakraborty who is currently learning C language in this very repository.
+
 ## Feedback
 
 If you have any feedback, feel free to reach out at manmaycoder@gmail.com
 
 
-## 🛠 Skills
-Javascript, HTML, CSS,C,C++,PYTHON,JAVA and SQL.
+## Contributing
+
+Contributions are always welcome!
+
+Please feel free to contribute to this open source project
+
+Please adhere to this project's `code of conduct`.
