@@ -31,7 +31,7 @@ This project is used by the following companies:
 - [Ahens | An Initiative to Initial](https://www.ahens.rf.gd)
 
 
-## FUTURE SCOPE :
+## FUTURE SCOPE(to be added in future) :
  - I) ADDING THE JAVASCRIPT TEMPLATE.
  - II) MANY FEATURED TAGS ARE YET TO BE ADDED IN HTML AND CSS FILES.
  
